@@ -1,0 +1,4 @@
+train: /yolo-train/images/train
+val: /yolo-train/images/val
+nc: 1
+names: ['returnbend']

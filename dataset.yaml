@@ -1,0 +1,9 @@
+train: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/train/images
+val: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/val/images
+test: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/test/images
+train_labels: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/train/labels
+val_labels: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/val/labels
+test_labels: /Users/keagon_beatty/Documents/Machine_Learning/pattern_pictures/datasets/test/labels
+nc: 1
+names:
+  0: 'returnbend'
