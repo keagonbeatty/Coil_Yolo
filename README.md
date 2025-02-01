@@ -15,10 +15,17 @@ To get started with this project I recommend the use of Visual Studio Code to in
 below. The following are a list of required libraries needed to run this project:
 -Python 3.11
 -Ultralytics YOLO OBB
+-pyyaml
 
-If none of these libraries are installed on your machine I recommend dowloading Python 3.11 and running the Getting Started Script. This script is used to pip all necessary 
-dependancies.
+If none of these libraries are installed on your machine I recommend dowloading Python 3.11. and running the 'Necessary_Installs.ipynb" script to make sure your machine is set up for success
 
 ## Training Model from scratch
-In order to train a model from scratch you will need to create a dataset uding Label Studio, 
+In order to train a model from scratch you will need to do the following:
+* Install Label Studio to create a dataset
+* Export that Dataset in the YOLOv8 OBB format
+* Sort the dataset into multiple directories to correctly train, test, and validate your model
+* Create a YAML file to assist in this training effort.
+
+I have created a script that will do everything but labelling the data for you. This script is called "Training_From_Scratch.ipynb" and it will assist you through the while process. To download Label Studio and get started with labelling datasets run `pip install label-studio`
+
 
