@@ -11,13 +11,7 @@ mitigates the downstream effects such as spoiled material, increased post expans
 custom production of fin and tube heat exchangers and increase profit margins on such operations.
 
 ## Getting Started
-To get started with this project I recommend the use of Visual Studio Code to interface with Jupyter Notebooks within the project itself. A link to Visual studio is provided 
-below. The following are a list of required libraries needed to run this project:
--Python 3.11
--Ultralytics YOLO OBB
--pyyaml
-
-If none of these libraries are installed on your machine I recommend dowloading Python 3.11. and running the 'Necessary_Installs.ipynb" script to make sure your machine is set up for success
+To get started with this project I recommend the use of Visual Studio Code to interface with Jupyter Notebooks within the project itself.
 
 ## Training Model from scratch
 In order to train a model from scratch you will need to do the following:
