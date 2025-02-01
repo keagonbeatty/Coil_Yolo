@@ -1,0 +1,12 @@
+names:
+  0: return-bend
+nc: 1
+test: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From Scratchdatasets/test/images
+test_labels: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From
+  Scratchdatasets/test/labels/
+train: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From Scratchdatasets/train/images
+train_labels: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From
+  Scratchdatasets/train/labels
+val: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From Scratchdatasets/val/images
+val_labels: /Users/keagon_beatty/Documents/Machine_Learning/coil_project/Train From
+  Scratchdatasets/val/labels/
