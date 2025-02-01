@@ -19,5 +19,6 @@ below. The following are a list of required libraries needed to run this project
 If none of these libraries are installed on your machine I recommend dowloading Python 3.11 and running the Getting Started Script. This script is used to pip all necessary 
 dependancies.
 
-
+## Training Model from scratch
+In order to train a model from scratch you will need to create a dataset uding Label Studio, 
 
